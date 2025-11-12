@@ -1,0 +1,9 @@
+{
+	"name": "adfpractisefile",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "246444e6-0332-4793-8617-ae8f20ae6642",
+		"tenantId": "172e9185-fa77-4bcd-998d-aed160a951d8"
+	}
+}

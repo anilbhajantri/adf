@@ -1,0 +1,6 @@
+{
+	"name": "selfint",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
